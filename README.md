@@ -16,5 +16,5 @@ Systematic Index Partners is not a traditional asset manager or index publisher.
 
 ## Contact
 
-Web: [https://sipglobally.com](https://sipglobally.com)
-Phone: +1 (587) 873-1874 (CAN)
++ Web: [https://sipglobally.com](https://sipglobally.com)
++ Phone: +1 (587) 873-1874 (CAN)
