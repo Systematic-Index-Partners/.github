@@ -1,18 +1,22 @@
 # Systematic Index Partners
 
-_Turning alternative industries into transparent, tradable markets through systematic strategies and infrastructure._
+_Building markets through transparency._
 
 ## Overview
 
-Systematic Index Partners (SIP Global) is a quantitative investment and market infrastructure firm focused on alternative and underdeveloped markets. We specialize in building systematic trading strategies, indices, and real-world infrastructure that enable market making, brokerage, and price discovery in markets with low liquidity or no existing financial trading framework.
+Systematic Index Partners (SIP Global) is a quantitative market infrastructure firm focused on underdeveloped physical markets.
 
-Our work centers on transforming traditionally opaque or fragmented industries into organized, tradable markets. We design proprietary quantitative systems in-house to support structured pricing, standardized contracts, and repeatable trading processes. These systems are deployed alongside physical and digital infrastructure, including centralized trading hubs, delivery points, data pipelines, execution tools, and operational platforms that allow markets to function efficiently.
+We are market builders. SIP applies quantitative discipline and modern trading standards to physical assets where formal financial architecture has historically been absent. We build the systems that enable structured trading, including standardized contracts, transparent pricing methodologies, execution platforms, and operational frameworks, connected directly to centralized trading hubs, delivery networks, data pipelines, and settlement systems.
 
-Systematic Index Partners actively participates in the markets we develop by providing liquidity, facilitating transactions, and supporting both physical and financial trading activity. Our indices and trading frameworks serve as the foundation for market making, brokerage services, and structured products, enabling participants to hedge risk, transact efficiently, and gain transparent exposure to alternative assets.
+Our mission is to engineer the foundations of new markets, transforming fragmented and illiquid industries into structured, tradable ecosystems that generate durable liquidity and transparent price formation.
 
-We focus on markets that lack institutional structure, reliable benchmarks, or scalable trading systems. By combining quantitative strategy, infrastructure development, and active market participation, we create the conditions necessary for liquidity, price transparency, and long-term market viability.
+## Public Indicies
 
-Systematic Index Partners is not a traditional asset manager or index publisher. We are a market builder, applying quantitative discipline and infrastructure to unlock new markets and improve existing ones, bringing modern trading standards to alternative asset classes where they have historically not existed.
+Coming soon...
+
+## Private Repositories
+
+[View Here](https://github.com/Systematic-Index-Partners/appendix-private/tree/main)
 
 ## Contact
 
