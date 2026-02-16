@@ -16,7 +16,7 @@ Coming soon...
 
 ## Private Repositories
 
-[View Here](https://github.com/Systematic-Index-Partners/appendix-private/tree/main)
+[Employee Access](https://github.com/Systematic-Index-Partners/appendix-private/tree/main)
 
 ## Contact
 
