@@ -1,6 +1,6 @@
 # Systematic Index Partners
 
-_Building markets through transparency._
+_Tota Ad Manum - Entirely In Reach_
 
 ## Overview
 
