@@ -1,6 +1,6 @@
 # Systematic Index Partners
 
-_Tota Ad Manum · Entirely In Reach_
+_Tota Ad Manum · Everything's Within Reach_
 
 ## Overview
 
